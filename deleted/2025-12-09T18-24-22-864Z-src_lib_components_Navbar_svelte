@@ -1,0 +1,45 @@
+<script>
+  import { onMount } from 'svelte';
+
+  let scrolled = false;
+
+  onMount(() => {
+    const handleScroll = () => {
+      scrolled = window.scrollY > 20;
+    };
+    window.addEventListener('scroll', handleScroll);
+    return () => window.removeEventListener('scroll', handleScroll);
+  });
+</script>
+
+<nav class="fixed top-0 left-0 right-0 z-50 transition-all duration-300 {scrolled ? 'bg-white/80 backdrop-blur-md border-b border-gray-100 py-3' : 'bg-transparent py-5'}">
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex items-center justify-between">
+    <!-- Logo -->
+    <div class="flex items-center gap-2">
+      <a href="/" class="flex items-center gap-2 text-xl font-bold text-gray-900 tracking-tight">
+        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="text-gray-900">
+          <path d="M12 2L2 7L12 12L22 7L12 2Z" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+          <path d="M2 17L12 22L22 17" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+          <path d="M2 12L12 17L22 12" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+        </svg>
+        Jenni
+      </a>
+    </div>
+
+    <!-- Links -->
+    <div class="hidden md:flex items-center gap-8">
+      <a href="#pricing" class="text-sm font-medium text-gray-600 hover:text-gray-900 transition-colors">Pricing</a>
+      <a href="#teams" class="text-sm font-medium text-gray-600 hover:text-gray-900 transition-colors">Teams</a>
+      <a href="#about" class="text-sm font-medium text-gray-600 hover:text-gray-900 transition-colors">About</a>
+      <a href="#blog" class="text-sm font-medium text-gray-600 hover:text-gray-900 transition-colors">Blog</a>
+    </div>
+
+    <!-- Actions -->
+    <div class="flex items-center gap-4">
+      <a href="#login" class="text-sm font-medium text-gray-600 hover:text-gray-900 transition-colors hidden sm:block">Log in</a>
+      <a href="#start" class="bg-[var(--color-brand-blue)] hover:bg-blue-700 text-white text-sm font-medium px-5 py-2.5 rounded-full transition-colors shadow-sm shadow-blue-500/30">
+        Start writing
+      </a>
+    </div>
+  </div>
+</nav>

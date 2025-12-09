@@ -1,0 +1,86 @@
+<section class="py-24 bg-white overflow-hidden">
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+    <div class="text-center mb-16">
+      <h2 class="text-xs font-bold tracking-widest text-purple-600 uppercase mb-3">EASY VERIFICATION</h2>
+      <h3 class="text-3xl md:text-4xl font-bold text-gray-900 mb-4">Traceable citations, every time</h3>
+      <p class="text-lg text-gray-500 max-w-2xl mx-auto">Every citation links directly to the exact page and paragraph in your source PDFs. Verify sources in one click.</p>
+    </div>
+
+    <div class="bg-gray-50 rounded-2xl border border-gray-200 overflow-hidden shadow-xl max-w-5xl mx-auto">
+        <div class="flex flex-col md:flex-row h-[500px]">
+            <!-- Left: Document -->
+            <div class="flex-1 p-8 bg-white border-r border-gray-200 overflow-y-auto">
+                <div class="flex items-center gap-2 mb-6">
+                    <div class="w-2 h-2 rounded-full bg-red-400"></div>
+                    <span class="text-xs font-bold text-gray-900">Neural Networks</span>
+                    <span class="text-[10px] bg-gray-100 px-1.5 py-0.5 rounded text-gray-500">PDF</span>
+                </div>
+                <div class="prose prose-sm max-w-none text-gray-600 text-xs leading-relaxed">
+                    <p class="mb-4">
+                        Neural networks have demonstrated remarkable capabilities in processing natural language, enabling machines to understand, process, and mimic human linguistic relationships.
+                    </p>
+                    <p class="mb-4 bg-purple-50 p-2 rounded border-l-2 border-purple-500 text-gray-800">
+                        Recent advancements in transformer architectures have revolutionized the field, allowing for more efficient training and better performance on downstream tasks.
+                    </p>
+                    <p class="mb-4">
+                        Applications span from machine translation to question answering systems, each benefiting from the robust feature extraction capabilities of deep neural architectures.
+                    </p>
+                    <p>
+                        Future research should focus on improving interpretability and reducing computational costs, making these powerful tools accessible to a wider range of applications.
+                    </p>
+                </div>
+            </div>
+
+            <!-- Right: AI Chat/Source -->
+            <div class="w-full md:w-80 bg-gray-50 p-6 flex flex-col">
+                <div class="flex items-center gap-2 mb-4">
+                    <div class="w-5 h-5 rounded bg-purple-100 text-purple-600 flex items-center justify-center text-xs">🤖</div>
+                    <span class="font-bold text-sm text-gray-900">AI Chat</span>
+                </div>
+                
+                <div class="bg-white p-4 rounded-xl shadow-sm border border-gray-100 mb-4 text-xs text-gray-700 leading-relaxed">
+                    Based on your papers, neural networks have shown remarkable capabilities in natural language processing. Their flexibility has been proven through peer-reviewed research, and future work aims to clarify interpretability improvements.
+                </div>
+
+                <div class="space-y-2">
+                    <div class="bg-white p-3 rounded-lg border border-gray-200 shadow-sm hover:border-purple-300 transition-colors cursor-pointer group">
+                        <div class="flex gap-2">
+                            <div class="w-4 h-4 rounded bg-purple-100 text-purple-600 flex items-center justify-center text-[8px] mt-0.5 group-hover:bg-purple-600 group-hover:text-white transition-colors">1</div>
+                            <div>
+                                <p class="text-[10px] text-gray-800 font-medium">Neural networks have demonstrated remarkable capabilities in processing natural...</p>
+                                <p class="text-[9px] text-gray-400 mt-1">Neural Networks • Page 1</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="bg-white p-3 rounded-lg border border-gray-200 shadow-sm hover:border-purple-300 transition-colors cursor-pointer group">
+                        <div class="flex gap-2">
+                            <div class="w-4 h-4 rounded bg-purple-100 text-purple-600 flex items-center justify-center text-[8px] mt-0.5 group-hover:bg-purple-600 group-hover:text-white transition-colors">2</div>
+                            <div>
+                                <p class="text-[10px] text-gray-800 font-medium">The flexibility of such interactions has been proven in multiple peer-reviewed studies...</p>
+                                <p class="text-[9px] text-gray-400 mt-1">Neural Networks • Page 1</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                     <div class="bg-white p-3 rounded-lg border border-gray-200 shadow-sm hover:border-purple-300 transition-colors cursor-pointer group">
+                        <div class="flex gap-2">
+                            <div class="w-4 h-4 rounded bg-purple-100 text-purple-600 flex items-center justify-center text-[8px] mt-0.5 group-hover:bg-purple-600 group-hover:text-white transition-colors">3</div>
+                            <div>
+                                <p class="text-[10px] text-gray-800 font-medium">Future research should focus on improving interpretability and reducing computational...</p>
+                                <p class="text-[9px] text-gray-400 mt-1">Neural Networks • Page 1</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="mt-12 text-center">
+        <a href="#start" class="bg-[var(--color-brand-blue)] hover:bg-blue-700 text-white text-sm font-medium px-6 py-3 rounded-full transition-all shadow-lg shadow-blue-500/30">
+            Get started — it's free
+        </a>
+    </div>
+  </div>
+</section>

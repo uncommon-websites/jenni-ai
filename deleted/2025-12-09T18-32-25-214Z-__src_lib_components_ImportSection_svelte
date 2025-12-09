@@ -1,0 +1,124 @@
+<section class="py-24 bg-white">
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+    <div class="text-center mb-16">
+      <span class="text-purple-600 font-bold text-xs tracking-widest uppercase mb-2 block">DATA IMPORT</span>
+      <h2 class="text-4xl md:text-5xl font-serif font-medium text-gray-900 mb-4">Import research in seconds</h2>
+      <div class="flex items-center justify-center gap-2 text-xl text-gray-600">
+        <span>Bring your existing research from Zotero</span>
+        <span class="bg-red-100 text-red-600 font-bold px-1.5 rounded text-sm">Z</span>
+        <span>and Mendeley</span>
+        <span class="bg-red-700 text-white font-bold px-1.5 rounded text-sm">M</span>
+      </div>
+    </div>
+
+    <!-- Visual -->
+    <div class="max-w-4xl mx-auto mb-20 relative">
+      <div class="flex flex-col md:flex-row gap-8 md:gap-20 items-center justify-center">
+        <!-- Zotero Card -->
+        <div class="bg-gray-50 rounded-xl p-6 w-full max-w-sm border border-gray-100 relative z-10">
+          <div class="flex items-center gap-2 mb-6">
+            <div class="w-8 h-8 bg-white rounded shadow-sm flex items-center justify-center text-red-500 font-bold border border-gray-100">Z</div>
+            <span class="font-bold text-gray-900">Zotero</span>
+          </div>
+          <div class="space-y-3">
+            <div class="bg-white p-3 rounded border border-gray-100 shadow-sm">
+              <p class="text-sm font-medium text-gray-900">Nuclear Fusion</p>
+              <p class="text-xs text-gray-500">10 sources</p>
+            </div>
+            <div class="bg-white p-3 rounded border border-gray-100 shadow-sm">
+              <p class="text-sm font-medium text-gray-900">Machine Learning</p>
+              <p class="text-xs text-gray-500">185 sources</p>
+            </div>
+            <div class="bg-white p-3 rounded border border-gray-100 shadow-sm">
+              <p class="text-sm font-medium text-gray-900">HCI</p>
+              <p class="text-xs text-gray-500">9 sources</p>
+            </div>
+          </div>
+        </div>
+
+        <!-- Connection Line -->
+        <div class="hidden md:block absolute top-1/2 left-1/2 w-20 h-[2px] bg-blue-100 -translate-x-1/2 z-0">
+          <div class="absolute top-1/2 left-0 w-2 h-2 bg-blue-500 rounded-full -translate-y-1/2 animate-ping"></div>
+        </div>
+
+        <!-- Jenni Card -->
+        <div class="bg-gray-50 rounded-xl p-6 w-full max-w-sm border border-gray-100 relative z-10">
+          <div class="flex items-center gap-2 mb-6">
+            <div class="w-8 h-8 bg-primary text-white rounded shadow-sm flex items-center justify-center font-bold">J</div>
+            <span class="font-bold text-gray-900">Jenni</span>
+          </div>
+          <div class="space-y-3">
+            <div class="bg-white p-3 rounded border border-gray-100 shadow-sm flex justify-between items-center">
+              <div>
+                <p class="text-sm font-medium text-gray-900">Nuclear Fusion</p>
+                <div class="flex items-center gap-1 text-xs text-green-600">
+                  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="w-3 h-3">
+                    <path fill-rule="evenodd" d="M19.916 4.626a.75.75 0 01.208 1.04l-9 13.5a.75.75 0 01-1.154.114l-6-6a.75.75 0 011.06-1.06l5.353 5.353 8.493-12.739a.75.75 0 011.04-.208z" clip-rule="evenodd" />
+                  </svg>
+                  Imported
+                </div>
+              </div>
+            </div>
+            <div class="bg-white p-3 rounded border border-gray-100 shadow-sm flex justify-between items-center">
+              <div>
+                <p class="text-sm font-medium text-gray-900">Machine Learning</p>
+                <div class="flex items-center gap-1 text-xs text-gray-400">
+                  <div class="w-3 h-3 border-2 border-gray-200 border-t-primary rounded-full animate-spin"></div>
+                  Importing...
+                </div>
+              </div>
+            </div>
+            <div class="bg-white p-3 rounded border border-gray-100 shadow-sm flex justify-between items-center">
+              <div>
+                <p class="text-sm font-medium text-gray-900">HCI</p>
+                <div class="flex items-center gap-1 text-xs text-gray-400">
+                  <div class="w-3 h-3 border-2 border-gray-200 border-t-primary rounded-full animate-spin"></div>
+                  Importing...
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Features -->
+    <div class="grid grid-cols-1 md:grid-cols-3 gap-8 max-w-5xl mx-auto text-center mb-16">
+      <div class="flex flex-col items-center">
+        <div class="w-12 h-12 bg-gray-50 rounded-full flex items-center justify-center mb-4 text-gray-900">
+          <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6">
+            <path stroke-linecap="round" stroke-linejoin="round" d="M3.75 13.5l10.5-11.25L12 10.5h8.25L9.75 21.75 12 13.5H3.75z" />
+          </svg>
+        </div>
+        <h3 class="font-bold text-gray-900 mb-1">Lightening fast</h3>
+        <p class="text-gray-600 text-sm">Import collections in seconds</p>
+      </div>
+
+      <div class="flex flex-col items-center">
+        <div class="w-12 h-12 bg-gray-50 rounded-full flex items-center justify-center mb-4 text-gray-900">
+          <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6">
+            <path stroke-linecap="round" stroke-linejoin="round" d="M20.25 6.375c0 2.278-3.694 4.125-8.25 4.125S3.75 8.653 3.75 6.375m16.5 0c0-2.278-3.694-4.125-8.25-4.125S3.75 4.097 3.75 6.375m16.5 0v11.25c0 2.278-3.694 4.125-8.25 4.125s-8.25-1.847-8.25-4.125V6.375m16.5 0v3.75m-16.5-3.75v3.75m16.5 0v3.75C20.25 16.153 16.556 18 12 18s-8.25-1.847-8.25-4.125v-3.75m16.5 0c0 2.278-3.694 4.125-8.25 4.125s-8.25-1.847-8.25-4.125" />
+          </svg>
+        </div>
+        <h3 class="font-bold text-gray-900 mb-1">Complete Metadata</h3>
+        <p class="text-gray-600 text-sm">Source types are preserved</p>
+      </div>
+
+      <div class="flex flex-col items-center">
+        <div class="w-12 h-12 bg-gray-50 rounded-full flex items-center justify-center mb-4 text-gray-900">
+          <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6">
+            <path stroke-linecap="round" stroke-linejoin="round" d="M19.5 14.25v-2.625a3.375 3.375 0 00-3.375-3.375h-1.5A1.125 1.125 0 0113.5 7.125v-1.5a3.375 3.375 0 00-3.375-3.375H8.25m2.25 0H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 00-9-9z" />
+          </svg>
+        </div>
+        <h3 class="font-bold text-gray-900 mb-1">PDFs Included</h3>
+        <p class="text-gray-600 text-sm">No need to re-attach any files</p>
+      </div>
+    </div>
+
+    <div class="text-center">
+      <a href="#start" class="bg-primary hover:bg-primary-hover text-white font-medium px-8 py-3 rounded-lg transition-all shadow-lg hover:shadow-xl hover:-translate-y-0.5 inline-block">
+        Get started — it's free
+      </a>
+    </div>
+  </div>
+</section>

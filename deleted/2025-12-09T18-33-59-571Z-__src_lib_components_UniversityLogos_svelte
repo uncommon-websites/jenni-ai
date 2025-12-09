@@ -1,0 +1,29 @@
+<div class="w-full py-12 border-t border-gray-100 bg-white">
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+    <p class="text-center text-sm text-gray-400 mb-8 font-medium">Trusted by Universities and businesses across the world</p>
+    <div class="flex flex-wrap justify-center items-center gap-8 md:gap-16 opacity-50 grayscale hover:grayscale-0 transition-all duration-500">
+      <!-- Penn -->
+      <span class="font-serif text-xl font-bold tracking-tight text-blue-900">Penn</span>
+      
+      <!-- Cambridge -->
+      <div class="flex items-center gap-2">
+        <span class="font-serif text-lg text-gray-900">UNIVERSITY OF</span>
+        <span class="font-serif text-lg font-bold text-gray-900">CAMBRIDGE</span>
+      </div>
+
+      <!-- Waterloo -->
+      <div class="flex items-center gap-1 font-sans font-bold text-gray-900">
+        <span class="text-yellow-500">UNIVERSITY OF</span>
+        <span>WATERLOO</span>
+      </div>
+
+      <!-- Oxford -->
+      <div class="font-serif text-xl font-bold text-blue-900">
+        UNIVERSITY OF <span class="block text-2xl">OXFORD</span>
+      </div>
+
+      <!-- Stanford -->
+      <span class="font-serif text-xl text-red-900">Stanford University</span>
+    </div>
+  </div>
+</div>

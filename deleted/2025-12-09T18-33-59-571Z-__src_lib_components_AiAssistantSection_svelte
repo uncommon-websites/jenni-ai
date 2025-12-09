@@ -1,0 +1,113 @@
+<section class="py-24 bg-white overflow-hidden">
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
+    <span class="text-purple-600 font-bold text-xs tracking-widest uppercase mb-2 block">AI ASSISTANT</span>
+    <h2 class="text-4xl md:text-5xl font-serif font-medium text-gray-900 mb-4">Never write alone</h2>
+    <p class="text-xl text-gray-600 max-w-2xl mx-auto mb-10">Get suggestions whenever you are stuck or expand your notes into full paragraphs</p>
+    
+    <div class="mb-16">
+      <a href="#start" class="bg-primary hover:bg-primary-hover text-white font-medium px-8 py-3 rounded-lg transition-all shadow-lg hover:shadow-xl hover:-translate-y-0.5 inline-block">
+        Start writing — it's free
+      </a>
+    </div>
+
+    <!-- UI Mockup -->
+    <div class="relative mx-auto max-w-6xl rounded-xl shadow-2xl border border-gray-200 bg-white overflow-hidden text-left">
+      <!-- Window Controls -->
+      <div class="bg-white border-b border-gray-200 px-4 py-3 flex items-center justify-between">
+        <div class="flex items-center gap-2">
+           <div class="w-3 h-3 rounded-full bg-red-400"></div>
+           <div class="w-3 h-3 rounded-full bg-yellow-400"></div>
+           <div class="w-3 h-3 rounded-full bg-green-400"></div>
+        </div>
+        <div class="text-xs text-gray-400 font-medium">Untitled Document</div>
+        <div class="flex gap-4 text-xs font-medium text-gray-600">
+           <span>Export</span>
+           <span>Publish</span>
+        </div>
+      </div>
+
+      <div class="flex h-[600px] bg-white">
+        <!-- Sidebar -->
+        <div class="w-64 border-r border-gray-100 p-4 hidden md:flex flex-col gap-6 bg-gray-50/30">
+          <div class="flex items-center gap-2 px-2">
+            <div class="w-6 h-6 rounded-full bg-gray-200"></div>
+            <span class="text-sm font-medium text-gray-900">Adam West</span>
+          </div>
+          
+          <div class="space-y-1">
+            <div class="flex items-center gap-2 px-2 py-1.5 text-gray-600 hover:bg-gray-100 rounded cursor-pointer">
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="w-4 h-4 text-gray-400">
+                <path fill-rule="evenodd" d="M10.5 3.75a6.75 6.75 0 100 13.5 6.75 6.75 0 000-13.5zM2.25 10.5a8.25 8.25 0 1114.59 5.28l4.69 4.69a.75.75 0 11-1.06 1.06l-4.69-4.69A8.25 8.25 0 012.25 10.5z" clip-rule="evenodd" />
+              </svg>
+              <span class="text-sm">Search</span>
+            </div>
+            <div class="flex items-center gap-2 px-2 py-1.5 text-gray-900 bg-gray-100 rounded cursor-pointer font-medium">
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="w-4 h-4 text-primary">
+                <path fill-rule="evenodd" d="M5.625 1.5H9a3.75 3.75 0 013.75 3.75v1.875c0 1.036.84 1.875 1.875 1.875H16.5a3.75 3.75 0 013.75 3.75v7.875c0 1.035-.84 1.875-1.875 1.875H5.625a1.875 1.875 0 01-1.875-1.875V3.375c0-1.036.84-1.875 1.875-1.875zM12.75 12a.75.75 0 00-1.5 0v2.25H9a.75.75 0 000 1.5h2.25V18a.75.75 0 001.5 0v-2.25H15a.75.75 0 000-1.5h-2.25V12z" clip-rule="evenodd" />
+              </svg>
+              <span class="text-sm">Library</span>
+            </div>
+          </div>
+
+          <div class="space-y-4">
+            <div class="text-xs font-bold text-gray-400 uppercase tracking-wider px-2">Sources</div>
+            <div class="space-y-2 px-2">
+               <div class="flex items-center gap-2 text-sm text-gray-600">
+                 <div class="w-4 h-4 border border-gray-300 rounded flex items-center justify-center text-[8px]">AI</div>
+                 <span>Artificial Intelligence...</span>
+               </div>
+               <div class="flex items-center gap-2 text-sm text-gray-600">
+                 <div class="w-4 h-4 border border-gray-300 rounded flex items-center justify-center text-[8px]">CC</div>
+                 <span>Climate Change...</span>
+               </div>
+               <div class="flex items-center gap-2 text-sm text-gray-600">
+                 <div class="w-4 h-4 border border-gray-300 rounded flex items-center justify-center text-[8px]">ML</div>
+                 <span>Machine Learning...</span>
+               </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Main Content -->
+        <div class="flex-1 p-12 relative overflow-y-auto">
+          <h1 class="text-3xl font-serif font-bold text-gray-900 mb-8">Carbon emission – causes,<br/>Impacts, and Potential Solutions</h1>
+          
+          <div class="prose prose-lg max-w-none text-gray-600">
+            <p class="mb-4">
+              <span class="font-bold text-gray-900">Carbon Dioxide (CO2)</span>
+            </p>
+            <p class="mb-4 leading-relaxed">
+              Carbon dioxide is the most well-known greenhouse gas. It is primarily released into the atmosphere through the burning of fossil fuels, <span class="bg-blue-100 text-blue-800 px-1 rounded cursor-pointer border-b-2 border-blue-300">such as coal, oil, and natural gas. Deforestation and land use changes also contribute to increased levels of CO2 in the atmosphere. (Plass, 2023)</span>
+            </p>
+            
+            <!-- AI Popover -->
+            <div class="absolute top-[280px] left-12 bg-white rounded-xl shadow-xl border border-gray-200 p-4 w-[450px] z-20 animate-fade-in-up">
+              <div class="flex items-start gap-3">
+                <div class="w-8 h-8 rounded-full bg-purple-100 text-purple-600 flex items-center justify-center shrink-0">
+                  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="w-4 h-4">
+                    <path fill-rule="evenodd" d="M9 4.5a.75.75 0 01.721.544l.813 2.846a3.75 3.75 0 002.576 2.576l2.846.813a.75.75 0 010 1.442l-2.846.813a3.75 3.75 0 00-2.576 2.576l-.813 2.846a.75.75 0 01-1.442 0l-.813-2.846a3.75 3.75 0 00-2.576-2.576l-2.846-.813a.75.75 0 010-1.442l2.846-.813a3.75 3.75 0 002.576-2.576l.813-2.846A.75.75 0 019 4.5zM9 15a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0v-1.5h-1.5a.75.75 0 010-1.5h1.5v-1.5A.75.75 0 019 15z" clip-rule="evenodd" />
+                  </svg>
+                </div>
+                <div class="flex-1">
+                  <div class="flex items-center justify-between mb-1">
+                    <p class="text-sm font-medium text-gray-900">AI Summarizer</p>
+                  </div>
+                  <p class="text-sm text-gray-600 mb-3">...which can range from simple FPGA-based prototypes to intricate 3-D models almost indistinguishable from the significant element of the final product.</p>
+                  <div class="flex gap-2">
+                    <button class="bg-primary text-white text-xs px-3 py-1.5 rounded font-medium">Accept ⇥</button>
+                    <button class="bg-white border border-gray-200 text-gray-600 text-xs px-3 py-1.5 rounded font-medium hover:bg-gray-50">Try Again</button>
+                    <span class="text-xs text-gray-400 self-center ml-auto">Edit →</span>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <p class="mb-4 mt-32">
+              <span class="font-bold text-gray-900">Sources and Emissions</span>
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>

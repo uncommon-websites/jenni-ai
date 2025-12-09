@@ -1,0 +1,48 @@
+<section class="py-24 bg-white">
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
+    <h2 class="text-4xl md:text-5xl font-serif font-medium text-gray-900 mb-4">Make progress on your<br/>greatest work, today</h2>
+    <p class="text-xl text-gray-600 max-w-2xl mx-auto mb-8">Write your first paper with Jenni today and never look back</p>
+    
+    <div class="flex items-center justify-center gap-6 mb-10 text-sm text-gray-500">
+      <div class="flex items-center gap-2">
+        <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" class="w-4 h-4 text-gray-400">
+          <path stroke-linecap="round" stroke-linejoin="round" d="M4.5 12.75l6 6 9-13.5" />
+        </svg>
+        Start for free
+      </div>
+      <div class="flex items-center gap-2">
+        <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" class="w-4 h-4 text-gray-400">
+          <path stroke-linecap="round" stroke-linejoin="round" d="M4.5 12.75l6 6 9-13.5" />
+        </svg>
+        No credit card required
+      </div>
+      <div class="flex items-center gap-2">
+        <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" class="w-4 h-4 text-gray-400">
+          <path stroke-linecap="round" stroke-linejoin="round" d="M4.5 12.75l6 6 9-13.5" />
+        </svg>
+        Cancel anytime
+      </div>
+    </div>
+
+    <div class="mb-16">
+      <a href="#start" class="bg-primary hover:bg-primary-hover text-white font-medium px-8 py-3 rounded-lg transition-all shadow-lg hover:shadow-xl hover:-translate-y-0.5 inline-block">
+        Start writing — it's free
+      </a>
+    </div>
+
+    <div class="grid grid-cols-1 md:grid-cols-3 gap-8 max-w-3xl mx-auto border-t border-gray-100 pt-12">
+      <div>
+        <h3 class="text-2xl font-serif font-bold text-gray-900 mb-1">Over 5m</h3>
+        <p class="text-xs text-gray-400 uppercase tracking-wider">ACADEMICS EMPOWERED</p>
+      </div>
+      <div>
+        <h3 class="text-2xl font-serif font-bold text-gray-900 mb-1">5.2 hours saved</h3>
+        <p class="text-xs text-gray-400 uppercase tracking-wider">ON AVERAGE PER PAPER</p>
+      </div>
+      <div>
+        <h3 class="text-2xl font-serif font-bold text-gray-900 mb-1">Over 15m</h3>
+        <p class="text-xs text-gray-400 uppercase tracking-wider">PAPERS WRITTEN ON JENNI</p>
+      </div>
+    </div>
+  </div>
+</section>

@@ -1,0 +1,77 @@
+<section class="py-24 bg-gray-50/30">
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+    <div class="text-center mb-16">
+      <span class="text-purple-600 font-bold text-xs tracking-widest uppercase mb-2 block">USE CASES</span>
+      <h2 class="text-4xl md:text-5xl font-serif font-medium text-gray-900 mb-4">You're in control</h2>
+      <p class="text-xl text-gray-600">Types of content Jenni can help you with</p>
+    </div>
+
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+      <!-- Item 1 -->
+      <div class="bg-white p-8 rounded-xl border border-gray-100 hover:shadow-md transition-shadow">
+        <div class="w-10 h-10 bg-white border border-gray-100 rounded-lg flex items-center justify-center text-primary mb-4 shadow-sm">
+          <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-5 h-5">
+            <path stroke-linecap="round" stroke-linejoin="round" d="M19.5 14.25v-2.625a3.375 3.375 0 00-3.375-3.375h-1.5A1.125 1.125 0 0113.5 7.125v-1.5a3.375 3.375 0 00-3.375-3.375H8.25m2.25 0H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 00-9-9z" />
+          </svg>
+        </div>
+        <h3 class="text-lg font-bold text-gray-900 mb-2">Literature reviews</h3>
+        <p class="text-gray-600 text-sm leading-relaxed">Discover, write, and cite relevant research.</p>
+      </div>
+
+      <!-- Item 2 -->
+      <div class="bg-white p-8 rounded-xl border border-gray-100 hover:shadow-md transition-shadow">
+        <div class="w-10 h-10 bg-white border border-gray-100 rounded-lg flex items-center justify-center text-primary mb-4 shadow-sm">
+          <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-5 h-5">
+            <path stroke-linecap="round" stroke-linejoin="round" d="M9.75 3.104v5.714a2.25 2.25 0 01-.659 1.591L5 14.5M9.75 3.104c-.251.023-.501.05-.75.082m.75-.082a24.301 24.301 0 014.5 0m0 0v5.714c0 .597.237 1.17.659 1.591L19.8 15.3M14.25 3.104c.251.023.501.05.75.082M19.8 15.3l-1.57.393A9.065 9.065 0 0112 19.5c-3.15 0-6.158-1.074-8.748-3.07a9.063 9.063 0 01-1.512-1.408l-.517-.631 3.842-3.842C5.332 10.157 5.332 9.9 5.332 9.641v-.878m13.974 3.08c.63.63.63 1.652 0 2.282L16.2 17.25" />
+          </svg>
+        </div>
+        <h3 class="text-lg font-bold text-gray-900 mb-2">Research Papers</h3>
+        <p class="text-gray-600 text-sm leading-relaxed">Polish your writing to increase submission success.</p>
+      </div>
+
+      <!-- Item 3 -->
+      <div class="bg-white p-8 rounded-xl border border-gray-100 hover:shadow-md transition-shadow">
+        <div class="w-10 h-10 bg-white border border-gray-100 rounded-lg flex items-center justify-center text-primary mb-4 shadow-sm">
+          <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-5 h-5">
+            <path stroke-linecap="round" stroke-linejoin="round" d="M4.26 10.147a60.436 60.436 0 00-.491 6.347A48.627 48.627 0 0112 20.904a48.627 48.627 0 018.232-4.41 60.46 60.46 0 00-.491-6.347m-15.482 0a50.57 50.57 0 00-2.658-.813A59.905 59.905 0 0112 3.493a59.902 59.902 0 0110.399 5.84c-.896.248-1.783.52-2.658.814m-15.482 0A50.697 50.697 0 0112 13.489a50.702 50.702 0 017.74-3.342M6.75 15a.75.75 0 100-1.5.75.75 0 000 1.5zm0 0v-3.675A55.378 55.378 0 0112 8.443m-7.007 11.55A5.981 5.981 0 006.75 15.75v-1.5" />
+          </svg>
+        </div>
+        <h3 class="text-lg font-bold text-gray-900 mb-2">Essays</h3>
+        <p class="text-gray-600 text-sm leading-relaxed">Save hours writing your essay with our AI essay writing tool.</p>
+      </div>
+
+      <!-- Item 4 -->
+      <div class="bg-white p-8 rounded-xl border border-gray-100 hover:shadow-md transition-shadow">
+        <div class="w-10 h-10 bg-white border border-gray-100 rounded-lg flex items-center justify-center text-primary mb-4 shadow-sm">
+          <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-5 h-5">
+            <path stroke-linecap="round" stroke-linejoin="round" d="M15.59 14.37a6 6 0 01-5.84 7.38v-4.8m5.84-2.58a14.98 14.98 0 006.16-12.12A14.98 14.98 0 009.631 8.41m5.96 5.96a14.926 14.926 0 01-5.841 2.58m-.119-8.54a6 6 0 00-7.381 5.84h4.8m2.581-5.84a14.927 14.927 0 00-2.58 5.84m2.699 2.7c-.103.021-.207.041-.311.06a15.09 15.09 0 01-2.448-2.448 14.9 14.9 0 01.06-.312m-2.24 2.39a4.493 4.493 0 00-1.757 4.306 4.493 4.493 0 004.306-1.758M16.5 9a1.5 1.5 0 11-3 0 1.5 1.5 0 013 0z" />
+          </svg>
+        </div>
+        <h3 class="text-lg font-bold text-gray-900 mb-2">Industry reports</h3>
+        <p class="text-gray-600 text-sm leading-relaxed">Used source based generation to share industry knowledge.</p>
+      </div>
+
+      <!-- Item 5 -->
+      <div class="bg-white p-8 rounded-xl border border-gray-100 hover:shadow-md transition-shadow">
+        <div class="w-10 h-10 bg-white border border-gray-100 rounded-lg flex items-center justify-center text-primary mb-4 shadow-sm">
+          <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-5 h-5">
+            <path stroke-linecap="round" stroke-linejoin="round" d="M12 6.042A8.967 8.967 0 006 3.75c-1.052 0-2.062.18-3 .512v14.25A8.987 8.987 0 016 18c2.305 0 4.408.867 6 2.292m0-14.25a8.966 8.966 0 016-2.292c1.052 0 2.062.18 3 .512v14.25A8.987 8.987 0 0018 18a8.967 8.967 0 00-6 2.292m0-14.25v14.25" />
+          </svg>
+        </div>
+        <h3 class="text-lg font-bold text-gray-900 mb-2">Non-fiction books</h3>
+        <p class="text-gray-600 text-sm leading-relaxed">Easy to control and manage citations and AI suggestions.</p>
+      </div>
+
+      <!-- Item 6 -->
+      <div class="bg-white p-8 rounded-xl border border-gray-100 hover:shadow-md transition-shadow">
+        <div class="w-10 h-10 bg-white border border-gray-100 rounded-lg flex items-center justify-center text-primary mb-4 shadow-sm">
+          <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-5 h-5">
+            <path stroke-linecap="round" stroke-linejoin="round" d="M12 18.75a6 6 0 006-6v-1.5m-6 7.5a6 6 0 01-6-6v-1.5m6 7.5v3.75m-3.75 0h7.5M12 15.75a3 3 0 01-3-3V4.5a3 3 0 116 0v8.25a3 3 0 01-3 3z" />
+          </svg>
+        </div>
+        <h3 class="text-lg font-bold text-gray-900 mb-2">Speeches</h3>
+        <p class="text-gray-600 text-sm leading-relaxed">Write your next compelling speech in less time.</p>
+      </div>
+    </div>
+  </div>
+</section>

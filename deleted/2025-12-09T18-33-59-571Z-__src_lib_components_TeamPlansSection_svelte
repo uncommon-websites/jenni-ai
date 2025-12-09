@@ -1,0 +1,11 @@
+<section class="py-24 bg-[#0A0A0A] text-white">
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
+    <span class="text-gray-400 font-bold text-xs tracking-widest uppercase mb-4 block">FOR TEAMS</span>
+    <h2 class="text-4xl md:text-5xl font-serif font-medium mb-6">Team & institutional plans</h2>
+    <p class="text-xl text-gray-400 max-w-2xl mx-auto mb-10">Collaborate with your research team and speed up your workflow.</p>
+    
+    <a href="#teams" class="bg-primary hover:bg-primary-hover text-white font-medium px-8 py-3 rounded-lg transition-all shadow-lg hover:shadow-xl hover:-translate-y-0.5 inline-block">
+      Learn more
+    </a>
+  </div>
+</section>

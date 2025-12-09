@@ -1,0 +1,146 @@
+<section class="py-24 bg-gray-50/50">
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+    <div class="text-center mb-16">
+      <span class="text-purple-600 font-bold text-xs tracking-widest uppercase mb-2 block">CUSTOMER LOVE</span>
+      <h2 class="text-4xl md:text-5xl font-serif font-medium text-gray-900 mb-4">Join over 5 million empowered writers</h2>
+      <p class="text-xl text-gray-600 max-w-2xl mx-auto">Jenni has helped write over 970 million words. From academic essays, journal articles, to industry reports.</p>
+    </div>
+
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+      <!-- Testimonial 1 -->
+      <div class="bg-white p-6 rounded-xl border border-gray-100 shadow-sm hover:shadow-md transition-shadow">
+        <div class="flex items-start justify-between mb-4">
+          <div class="flex items-center gap-3">
+            <img src="https://ui-avatars.com/api/?name=Owdy&background=random" alt="Owdy" class="w-10 h-10 rounded-full" />
+            <div>
+              <p class="font-bold text-gray-900 text-sm">Owdy</p>
+              <p class="text-xs text-gray-500">@Hadeel_Nally</p>
+            </div>
+          </div>
+          <svg class="w-5 h-5 text-blue-400" fill="currentColor" viewBox="0 0 24 24"><path d="M23.953 4.57a10 10 0 01-2.825.775 4.958 4.958 0 002.163-2.723c-.951.555-2.005.959-3.127 1.184a4.92 4.92 0 00-8.384 4.482C7.69 8.095 4.067 6.13 1.64 3.162a4.822 4.822 0 00-.666 2.475c0 1.71.87 3.213 2.188 4.096a4.904 4.904 0 01-2.228-.616v.06a4.923 4.923 0 003.946 4.827 4.996 4.996 0 01-2.212.085 4.936 4.936 0 004.604 3.417 9.867 9.867 0 01-6.102 2.105c-.39 0-.779-.023-1.17-.067a13.995 13.995 0 007.557 2.209c9.053 0 13.998-7.496 13.998-13.985 0-.21 0-.42-.015-.63A9.935 9.935 0 0024 4.59z"/></svg>
+        </div>
+        <p class="text-gray-700 text-sm leading-relaxed">A major shoutout to Jenni AI for straight up saving my life ❤️</p>
+      </div>
+
+      <!-- Testimonial 2 -->
+      <div class="bg-white p-6 rounded-xl border border-gray-100 shadow-sm hover:shadow-md transition-shadow">
+        <div class="flex items-start justify-between mb-4">
+          <div class="flex items-center gap-3">
+            <img src="https://ui-avatars.com/api/?name=Amazing&background=random" alt="Amazing" class="w-10 h-10 rounded-full" />
+            <div>
+              <p class="font-bold text-gray-900 text-sm">Amazing</p>
+              <p class="text-xs text-gray-500">@_kijanayawinji</p>
+            </div>
+          </div>
+          <svg class="w-5 h-5 text-blue-400" fill="currentColor" viewBox="0 0 24 24"><path d="M23.953 4.57a10 10 0 01-2.825.775 4.958 4.958 0 002.163-2.723c-.951.555-2.005.959-3.127 1.184a4.92 4.92 0 00-8.384 4.482C7.69 8.095 4.067 6.13 1.64 3.162a4.822 4.822 0 00-.666 2.475c0 1.71.87 3.213 2.188 4.096a4.904 4.904 0 01-2.228-.616v.06a4.923 4.923 0 003.946 4.827 4.996 4.996 0 01-2.212.085 4.936 4.936 0 004.604 3.417 9.867 9.867 0 01-6.102 2.105c-.39 0-.779-.023-1.17-.067a13.995 13.995 0 007.557 2.209c9.053 0 13.998-7.496 13.998-13.985 0-.21 0-.42-.015-.63A9.935 9.935 0 0024 4.59z"/></svg>
+        </div>
+        <p class="text-gray-700 text-sm leading-relaxed">I used Jenni AI for my research paper, and it helped refine my arguments. Definitely a must-have for students.</p>
+      </div>
+
+      <!-- Testimonial 3 -->
+      <div class="bg-white p-6 rounded-xl border border-gray-100 shadow-sm hover:shadow-md transition-shadow">
+        <div class="flex items-start justify-between mb-4">
+          <div class="flex items-center gap-3">
+            <img src="https://ui-avatars.com/api/?name=Girl+Next+Door&background=random" alt="Girl Next Door" class="w-10 h-10 rounded-full" />
+            <div>
+              <p class="font-bold text-gray-900 text-sm">Girl Next Door</p>
+              <p class="text-xs text-gray-500">@Cyyyyyyyynthia</p>
+            </div>
+          </div>
+          <svg class="w-5 h-5 text-blue-400" fill="currentColor" viewBox="0 0 24 24"><path d="M23.953 4.57a10 10 0 01-2.825.775 4.958 4.958 0 002.163-2.723c-.951.555-2.005.959-3.127 1.184a4.92 4.92 0 00-8.384 4.482C7.69 8.095 4.067 6.13 1.64 3.162a4.822 4.822 0 00-.666 2.475c0 1.71.87 3.213 2.188 4.096a4.904 4.904 0 01-2.228-.616v.06a4.923 4.923 0 003.946 4.827 4.996 4.996 0 01-2.212.085 4.936 4.936 0 004.604 3.417 9.867 9.867 0 01-6.102 2.105c-.39 0-.779-.023-1.17-.067a13.995 13.995 0 007.557 2.209c9.053 0 13.998-7.496 13.998-13.985 0-.21 0-.42-.015-.63A9.935 9.935 0 0024 4.59z"/></svg>
+        </div>
+        <p class="text-gray-700 text-sm leading-relaxed">Jenni AI helped me draft articles quickly. Great for research and content creation.</p>
+      </div>
+
+      <!-- Testimonial 4 -->
+      <div class="bg-white p-6 rounded-xl border border-gray-100 shadow-sm hover:shadow-md transition-shadow">
+        <div class="flex items-start justify-between mb-4">
+          <div class="flex items-center gap-3">
+            <img src="https://ui-avatars.com/api/?name=SARAH&background=random" alt="SARAH" class="w-10 h-10 rounded-full" />
+            <div>
+              <p class="font-bold text-gray-900 text-sm">SARAH</p>
+              <p class="text-xs text-gray-500">@SarahAnnabelL</p>
+            </div>
+          </div>
+          <svg class="w-5 h-5 text-blue-400" fill="currentColor" viewBox="0 0 24 24"><path d="M23.953 4.57a10 10 0 01-2.825.775 4.958 4.958 0 002.163-2.723c-.951.555-2.005.959-3.127 1.184a4.92 4.92 0 00-8.384 4.482C7.69 8.095 4.067 6.13 1.64 3.162a4.822 4.822 0 00-.666 2.475c0 1.71.87 3.213 2.188 4.096a4.904 4.904 0 01-2.228-.616v.06a4.923 4.923 0 003.946 4.827 4.996 4.996 0 01-2.212.085 4.936 4.936 0 004.604 3.417 9.867 9.867 0 01-6.102 2.105c-.39 0-.779-.023-1.17-.067a13.995 13.995 0 007.557 2.209c9.053 0 13.998-7.496 13.998-13.985 0-.21 0-.42-.015-.63A9.935 9.935 0 0024 4.59z"/></svg>
+        </div>
+        <p class="text-gray-700 text-sm leading-relaxed">Jenni AI is underrated. It's been a lifesaver for my research papers.</p>
+      </div>
+
+      <!-- Testimonial 5 -->
+      <div class="bg-white p-6 rounded-xl border border-gray-100 shadow-sm hover:shadow-md transition-shadow">
+        <div class="flex items-start justify-between mb-4">
+          <div class="flex items-center gap-3">
+            <img src="https://ui-avatars.com/api/?name=Dr_Stark&background=random" alt="Dr_Stark" class="w-10 h-10 rounded-full" />
+            <div>
+              <p class="font-bold text-gray-900 text-sm">Dr_Stark</p>
+              <p class="text-xs text-gray-500">@Dr_Stark</p>
+            </div>
+          </div>
+          <svg class="w-5 h-5 text-red-500" fill="currentColor" viewBox="0 0 24 24"><path d="M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S16.627 0 12 0zm4.441 16.892c-2.102.144-6.784.144-8.883 0C2.27 16.725 1.543 5.84 6.08 4.363c3.113-1.014 8.723-1.014 11.836 0 4.538 1.477 3.81 12.362-1.475 12.529zm.818-4.057c0 1.591-2.493 2.88-5.566 2.88-3.073 0-5.566-1.289-5.566-2.88 0-1.591 2.493-2.88 5.566-2.88 3.073 0 5.566 1.289 5.566 2.88z"/></svg>
+        </div>
+        <p class="text-gray-700 text-sm leading-relaxed">Overall, I think Jenni AI is a great tool for academic writing. Its features are well-designed and effective, and the user interface is easy to navigate.</p>
+      </div>
+
+      <!-- Testimonial 6 -->
+      <div class="bg-white p-6 rounded-xl border border-gray-100 shadow-sm hover:shadow-md transition-shadow">
+        <div class="flex items-start justify-between mb-4">
+          <div class="flex items-center gap-3">
+            <img src="https://ui-avatars.com/api/?name=naadira&background=random" alt="naadira" class="w-10 h-10 rounded-full" />
+            <div>
+              <p class="font-bold text-gray-900 text-sm">naadira jamaluddin</p>
+              <p class="text-xs text-gray-500">@naadirajayjay</p>
+            </div>
+          </div>
+          <svg class="w-5 h-5 text-blue-400" fill="currentColor" viewBox="0 0 24 24"><path d="M23.953 4.57a10 10 0 01-2.825.775 4.958 4.958 0 002.163-2.723c-.951.555-2.005.959-3.127 1.184a4.92 4.92 0 00-8.384 4.482C7.69 8.095 4.067 6.13 1.64 3.162a4.822 4.822 0 00-.666 2.475c0 1.71.87 3.213 2.188 4.096a4.904 4.904 0 01-2.228-.616v.06a4.923 4.923 0 003.946 4.827 4.996 4.996 0 01-2.212.085 4.936 4.936 0 004.604 3.417 9.867 9.867 0 01-6.102 2.105c-.39 0-.779-.023-1.17-.067a13.995 13.995 0 007.557 2.209c9.053 0 13.998-7.496 13.998-13.985 0-.21 0-.42-.015-.63A9.935 9.935 0 0024 4.59z"/></svg>
+        </div>
+        <p class="text-gray-700 text-sm leading-relaxed">Jenni ai helps me a lotttttt word, mendeley, quillbot in a single app je.</p>
+      </div>
+
+      <!-- Testimonial 7 -->
+      <div class="bg-white p-6 rounded-xl border border-gray-100 shadow-sm hover:shadow-md transition-shadow">
+        <div class="flex items-start justify-between mb-4">
+          <div class="flex items-center gap-3">
+            <img src="https://ui-avatars.com/api/?name=Mushtaq&background=random" alt="Mushtaq" class="w-10 h-10 rounded-full" />
+            <div>
+              <p class="font-bold text-gray-900 text-sm">Mushtaq</p>
+              <p class="text-xs text-gray-500">@MushtaqBilal</p>
+            </div>
+          </div>
+          <svg class="w-5 h-5 text-blue-400" fill="currentColor" viewBox="0 0 24 24"><path d="M23.953 4.57a10 10 0 01-2.825.775 4.958 4.958 0 002.163-2.723c-.951.555-2.005.959-3.127 1.184a4.92 4.92 0 00-8.384 4.482C7.69 8.095 4.067 6.13 1.64 3.162a4.822 4.822 0 00-.666 2.475c0 1.71.87 3.213 2.188 4.096a4.904 4.904 0 01-2.228-.616v.06a4.923 4.923 0 003.946 4.827 4.996 4.996 0 01-2.212.085 4.936 4.936 0 004.604 3.417 9.867 9.867 0 01-6.102 2.105c-.39 0-.779-.023-1.17-.067a13.995 13.995 0 007.557 2.209c9.053 0 13.998-7.496 13.998-13.985 0-.21 0-.42-.015-.63A9.935 9.935 0 0024 4.59z"/></svg>
+        </div>
+        <p class="text-gray-700 text-sm leading-relaxed">Jenni, the AI assistant for academic writing, just got BETTER and SMARTER.</p>
+      </div>
+
+      <!-- Testimonial 8 -->
+      <div class="bg-white p-6 rounded-xl border border-gray-100 shadow-sm hover:shadow-md transition-shadow">
+        <div class="flex items-start justify-between mb-4">
+          <div class="flex items-center gap-3">
+            <img src="https://ui-avatars.com/api/?name=Hason&background=random" alt="Hason" class="w-10 h-10 rounded-full" />
+            <div>
+              <p class="font-bold text-gray-900 text-sm">Hason Toor</p>
+              <p class="text-xs text-gray-500">@hasantoxr</p>
+            </div>
+          </div>
+          <svg class="w-5 h-5 text-blue-400" fill="currentColor" viewBox="0 0 24 24"><path d="M23.953 4.57a10 10 0 01-2.825.775 4.958 4.958 0 002.163-2.723c-.951.555-2.005.959-3.127 1.184a4.92 4.92 0 00-8.384 4.482C7.69 8.095 4.067 6.13 1.64 3.162a4.822 4.822 0 00-.666 2.475c0 1.71.87 3.213 2.188 4.096a4.904 4.904 0 01-2.228-.616v.06a4.923 4.923 0 003.946 4.827 4.996 4.996 0 01-2.212.085 4.936 4.936 0 004.604 3.417 9.867 9.867 0 01-6.102 2.105c-.39 0-.779-.023-1.17-.067a13.995 13.995 0 007.557 2.209c9.053 0 13.998-7.496 13.998-13.985 0-.21 0-.42-.015-.63A9.935 9.935 0 0024 4.59z"/></svg>
+        </div>
+        <p class="text-gray-700 text-sm leading-relaxed">I thought AI writing was useless. Then I found Jenni AI. It turned out to be much more advanced than I ever could have imagined. Jenni AI > ChatGPT x 10.</p>
+      </div>
+
+      <!-- Testimonial 9 -->
+      <div class="bg-white p-6 rounded-xl border border-gray-100 shadow-sm hover:shadow-md transition-shadow">
+        <div class="flex items-start justify-between mb-4">
+          <div class="flex items-center gap-3">
+            <img src="https://ui-avatars.com/api/?name=Rahul&background=random" alt="Rahul" class="w-10 h-10 rounded-full" />
+            <div>
+              <p class="font-bold text-gray-900 text-sm">Rahul</p>
+              <p class="text-xs text-gray-500">@rahulnui</p>
+            </div>
+          </div>
+          <svg class="w-5 h-5 text-blue-400" fill="currentColor" viewBox="0 0 24 24"><path d="M23.953 4.57a10 10 0 01-2.825.775 4.958 4.958 0 002.163-2.723c-.951.555-2.005.959-3.127 1.184a4.92 4.92 0 00-8.384 4.482C7.69 8.095 4.067 6.13 1.64 3.162a4.822 4.822 0 00-.666 2.475c0 1.71.87 3.213 2.188 4.096a4.904 4.904 0 01-2.228-.616v.06a4.923 4.923 0 003.946 4.827 4.996 4.996 0 01-2.212.085 4.936 4.936 0 004.604 3.417 9.867 9.867 0 01-6.102 2.105c-.39 0-.779-.023-1.17-.067a13.995 13.995 0 007.557 2.209c9.053 0 13.998-7.496 13.998-13.985 0-.21 0-.42-.015-.63A9.935 9.935 0 0024 4.59z"/></svg>
+        </div>
+        <p class="text-gray-700 text-sm leading-relaxed">Jenni is perfect for writing research docs, SOPs, study projects presentations 👌</p>
+      </div>
+    </div>
+  </div>
+</section>

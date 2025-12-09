@@ -1,0 +1,47 @@
+<script>
+  import AppPreview from './AppPreview.svelte';
+  import UniversityLogos from './UniversityLogos.svelte';
+</script>
+
+<section class="pt-32 pb-16 bg-white overflow-hidden">
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
+    <h1 class="text-4xl sm:text-5xl md:text-6xl font-bold text-gray-900 tracking-tight mb-6 max-w-4xl mx-auto leading-tight">
+      Meet Your Intelligent <br class="hidden sm:block" /> Research Assistant
+    </h1>
+    
+    <p class="text-lg sm:text-xl text-gray-500 mb-10 max-w-2xl mx-auto leading-relaxed">
+      The AI-powered workspace to help you <br class="hidden sm:block" />
+      read, write, and organize research with ease.
+    </p>
+    
+    <div class="flex flex-col items-center gap-6">
+      <a href="#start" class="bg-[var(--color-brand-blue)] hover:bg-blue-700 text-white text-base font-medium px-8 py-3.5 rounded-full transition-all shadow-lg shadow-blue-500/30 hover:shadow-blue-500/40 hover:-translate-y-0.5">
+        Start writing — it's free
+      </a>
+      
+      <div class="flex items-center gap-3 text-sm text-gray-500">
+        <div class="flex -space-x-2">
+            <div class="w-8 h-8 rounded-full border-2 border-white bg-gray-200 overflow-hidden">
+                <img src="https://i.pravatar.cc/100?img=1" alt="User" class="w-full h-full object-cover" />
+            </div>
+            <div class="w-8 h-8 rounded-full border-2 border-white bg-gray-200 overflow-hidden">
+                <img src="https://i.pravatar.cc/100?img=5" alt="User" class="w-full h-full object-cover" />
+            </div>
+            <div class="w-8 h-8 rounded-full border-2 border-white bg-gray-200 overflow-hidden">
+                <img src="https://i.pravatar.cc/100?img=8" alt="User" class="w-full h-full object-cover" />
+            </div>
+        </div>
+        <div class="flex flex-col items-start text-xs">
+            <div class="flex text-yellow-400 text-[10px]">★★★★★</div>
+            <span>Loved by over 5 million academics</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="mt-16 sm:mt-24 relative z-10">
+        <AppPreview />
+    </div>
+  </div>
+  
+  <UniversityLogos />
+</section>
